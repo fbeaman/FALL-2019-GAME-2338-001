@@ -6,7 +6,9 @@ Dark Souls-
 Halo Combat Evolved-
   Reliable with it's mechanics and enemy patterns.
   Flexible in it's gameplay style.
-  
+  Usability was the same for both campaign and multiplayer.  
   
 Monster Hunter World-
-  
+  Reliable with consistant controls.
+  Flexible with all weapons viable.
+  Usability was great with how easy it is to learn.
