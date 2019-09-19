@@ -1,18 +1,22 @@
-# Game Review for (GAME TITLE)
+# Game Review for Trials Fusion
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Trials Fusion
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+In a scale of 1 to 10, I give this game a 6.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The game is fairly simple. You can ride different types of motorcycles from one end of the map, to the other. The goal is just as simple, reach the end of the map.
+
+From time to time, you can have a challenge set that you must complete. Otherwise, there is not outside interference from other players, even when you play against them. So, the biggest draw would be trying to best your friends' times.
+
+There is also the ability to create custom maps. However, seeing as there is no need to turn beyond rotating yourself for a better landing, it is mainly down towards being interesting platform and level design.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+Ultimately, the game is rather flat being played alone. It can provide some entertainment, but the main draw is playing it with friends. That being said, it is a solid game, but not really one to be enjoyed for long gaming sessions.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+No additional information available.
